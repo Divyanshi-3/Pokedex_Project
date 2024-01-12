@@ -5,3 +5,20 @@ body{
 
   /* rgb(129, 129, 34); */
   /* rgb(171, 171, 29) */
+
+  .outer-pokedex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #pokedex-heading{
+    margin: 0 auto;
+    letter-spacing: 5px;
+    
+  }
+
+  a:visited{
+    color: blueviolet;
+    text-decoration: none;
+  }
