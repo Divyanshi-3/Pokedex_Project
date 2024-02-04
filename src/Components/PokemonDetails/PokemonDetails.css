@@ -30,3 +30,18 @@ background-color: blueviolet;
     flex-direction: column;
     align-items: center;
 }
+
+.heading-css{
+    margin-top: 2rem;
+    color: rgb(57, 18, 94);
+    text-align: center;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+
+.insideList-css{
+color: rgb(57, 18, 94);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}

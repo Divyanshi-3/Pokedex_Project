@@ -1,7 +1,5 @@
 import "./App.css";
-import Pokedex from "./Components/Pokedex/Pokedex";
-import PokemonDetails from "./Components/PokemonDetails/PokemonDetails";
-import PokemonList from "./Components/PokemonList/PokemonList";
+
 import CustomRoutes from "./routes/CustomRoutes";
 import { Link } from "react-router-dom";
 
